@@ -5,3 +5,10 @@ C:\Users\hp\source\repos\LinqTask\obj\Debug\LinqTask.csprojAssemblyReference.cac
 C:\Users\hp\source\repos\LinqTask\obj\Debug\LinqTask.csproj.CoreCompileInputs.cache
 C:\Users\hp\source\repos\LinqTask\obj\Debug\LinqTask.exe
 C:\Users\hp\source\repos\LinqTask\obj\Debug\LinqTask.pdb
+E:\LINQ\LinqTask\bin\Debug\LinqTask.exe.config
+E:\LINQ\LinqTask\bin\Debug\LinqTask.exe
+E:\LINQ\LinqTask\bin\Debug\LinqTask.pdb
+E:\LINQ\LinqTask\obj\Debug\LinqTask.csprojAssemblyReference.cache
+E:\LINQ\LinqTask\obj\Debug\LinqTask.csproj.CoreCompileInputs.cache
+E:\LINQ\LinqTask\obj\Debug\LinqTask.exe
+E:\LINQ\LinqTask\obj\Debug\LinqTask.pdb
